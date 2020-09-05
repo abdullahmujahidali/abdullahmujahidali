@@ -9,9 +9,9 @@ I am a full-stack developer at deSwot which provide web-services and moreover I 
 Other than that I am a writer. I have written books on Wattpad and other than that I have helped students in their software requirement documentation many times and now I am usually occupied with 2-3 documents in a month so yeahhhhhhhh that's the living for me now 😹
 <br>
 
-![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pearl /jQuery 
 
 - 🔭 I’m currently working on deSwot 
 - 🌱 I’m currently learning  React.js 
@@ -35,7 +35,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yammer.svg' alt='yammer' height='40'>](http://simonabdullah.netlify.app/)  
 
-
+<br>
+![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
 <a href="https://github.com/abdullahmujahidali">
