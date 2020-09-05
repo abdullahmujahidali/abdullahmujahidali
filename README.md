@@ -2,9 +2,12 @@
 #### I am a programming learner
 ![I am a programming learner](https://github.blog/wp-content/uploads/2017/05/github-for-atom.png)
 
-Finally decided to go with Computer Science as my passion 😁
-I am a full-stack developer at deSwot which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service.
+Finally decided to go with Computer Science as my passion 😁 <br>
+I am a full-stack developer at deSwot which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service. <br>
 Other than that I am a writer. I have written books on Wattpad and other than that I have helped students in their software requirement documentation many times and now I am usually occupied with 2-3 documents in a month so yeahhhhhhhh that's the living for me now 😹
+<br>
+
+![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -30,7 +33,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 </a>
 
 <div align="center">
-![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
