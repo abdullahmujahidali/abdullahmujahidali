@@ -2,7 +2,9 @@
 #### I am a programming learner
 ![I am a programming learner](https://github.blog/wp-content/uploads/2017/05/github-for-atom.png)
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+Finally decided to go with Computer Science as my passion 😁
+I am a full-stack developer at deSwot which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service.
+Other than that I am a writer. I have written books on Wattpad and other than that I have helped students in their software requirement documentation many times and now I am usually occupied with 2-3 documents in a month so yeahhhhhhhh that's the living for me now 😹
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -26,7 +28,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href="https://github.com/abdullahmujahidali">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&hide_langs_below=1" height='auto' />
 </a>
-
-<img src="https://camo.githubusercontent.com/7a90432exwJYfZjLKWgr5qrwwAwQvkzjqow1z8ca/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f53686168726f7a54616e766565722f636f756e742e737667" alt="Profile views" data-canonical-src="https://profile-counter.glitch.me/abdullahmujahidali/count.svg" style="max-width:100%;">
 
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
