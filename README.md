@@ -29,4 +29,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&hide_langs_below=1" height='auto' />
 </a>
 
+<div align="center">
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
+### Show some ❤️ by starring some of the repositories!
+</div>
+
+
+
