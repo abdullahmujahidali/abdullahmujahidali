@@ -50,7 +50,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
 
 
 <div align="center">
- Show some ❤️ by starring some of the repositories!
+  Show some ❤️ by starring some of the repositories!
 </div>
 
 
