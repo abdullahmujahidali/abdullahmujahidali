@@ -22,9 +22,17 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullahmujahidali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdullahmujahidali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdulladgaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/m.abdullahmujahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14224895)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/deSwot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tunnelingabear.wordpress.com/)  
 
--Projects Developed: 
-*A personal blog page developed using Express, Node with MongoDB attached*
+-Projects Developed:  <br>
+*A personal blog page developed using Express, Node with MongoDB as storage* <br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xrp.svg' alt='xrp' height='40'>](http://dry-bastion-52536.herokuapp.com/)  <br>
+
+*A todo list build developed using Express, Node with MongoDB as storage *<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eslgaming.svg' alt='eslgaming' height='40'>](http://damp-ocean-64899.herokuapp.com/)  
+<br>
+*A simon game developed using Javascript *
+<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yammer.svg' alt='yammer' height='40'>](http://simonabdullah.netlify.app/)  
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
