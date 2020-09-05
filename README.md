@@ -27,5 +27,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&hide_langs_below=1" height='auto' />
 </a>
 
+<img src="https://camo.githubusercontent.com/7a90432exwJYfZjLKWgr5qrwwAwQvkzjqow1z8ca/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f53686168726f7a54616e766565722f636f756e742e737667" alt="Profile views" data-canonical-src="https://profile-counter.glitch.me/abdullahmujahidali/count.svg" style="max-width:100%;">
 
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
