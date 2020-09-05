@@ -22,4 +22,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true)  
 
+<a href="https://github.com/abdullahmujahidali">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=dark&line_height=27" alt="Abdullah's github stats"/>
+
+
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
