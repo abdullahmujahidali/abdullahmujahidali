@@ -34,10 +34,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
 *A simon game developed using Javascript *
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yammer.svg' alt='yammer' height='40'>](http://simonabdullah.netlify.app/)  
-
 <br>
-![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+<br>
+ 
+![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
+
 
 <a href="https://github.com/abdullahmujahidali">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&layout=compact&theme=dark&line_height=27" alt="Abdullah's github stats"/></a>
