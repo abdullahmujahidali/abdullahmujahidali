@@ -26,8 +26,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
 <a href="https://github.com/abdullahmujahidali">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=dark&line_height=27" alt="Abdullah's github stats"/></a>
- <br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&layout=compact&theme=dark&line_height=27" alt="Abdullah's github stats"/></a>
+ 
  <a href="https://github.com/abdullahmujahidali">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
