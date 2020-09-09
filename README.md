@@ -5,7 +5,7 @@ If you found value in something I have created, please feel free to give me a sh
 ![I am a programming learner](https://github.blog/wp-content/uploads/2017/05/github-for-atom.png)
 
 Finally decided to go with Computer Science as my passion 😁 <br>
-I am a full-stack developer at deSwot which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service. <br>
+I am a full-stack developer at deSwot [@deSwot] which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service. <br>
 Other than that I am a writer. I have written books on Wattpad and other than that I have helped students in their software requirement documentation and other related subjects like Software Engineering, Human Computer Interaction😹
 <br>
 
@@ -45,6 +45,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&layout=compact&theme=dark&line_height=27" alt="Abdullah's github stats"/></a>
 <br> 
  <a href="https://github.com/abdullahmujahidali">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
 
 
