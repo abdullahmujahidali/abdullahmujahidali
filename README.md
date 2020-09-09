@@ -45,7 +45,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&layout=compact&theme=dark&line_height=27" alt="Abdullah's github stats"/></a>
 <br> 
  <a href="https://github.com/abdullahmujahidali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
 
 
