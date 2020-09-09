@@ -48,8 +48,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
  
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&layout=compact)](https://github.com/abdullahmujahidali/abdullahmujahidali)
 
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
