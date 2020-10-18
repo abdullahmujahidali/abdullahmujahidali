@@ -49,7 +49,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
  
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
+<br>
 <a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-147%20commits-orange.svg" alt=""></a>
+<br>
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
