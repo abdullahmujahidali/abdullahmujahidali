@@ -3,7 +3,7 @@
 
 ### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
  I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@abdulladgaf](https://twitter.com/abdulladgaf/) or give some ♥ on [mail](mailto:abdullahmujahidali1@gmail.com). Feel free to reach out in case you want to just get in touch also.
+If you found value in something I have created, please feel free to give me a shout out [@abdulladgaf](https://twitter.com/abdulladgaf/) or give some ♥ on [mail](mailto:abdullahmujahidali1@gmail.com). Feel free to reach out in case you want to just get in touch
 ![I am a programming learner](https://github.blog/wp-content/uploads/2017/05/github-for-atom.png)
 
 Finally decided to go with Computer Science as my passion 😁 <br>
