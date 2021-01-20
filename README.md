@@ -59,6 +59,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 
