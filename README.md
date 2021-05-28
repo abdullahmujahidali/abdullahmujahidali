@@ -56,6 +56,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pear
 <br>
 <a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-147%20commits-orange.svg" alt=""></a>
 <br>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+ <br s>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
