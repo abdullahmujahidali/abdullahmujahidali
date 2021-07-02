@@ -14,9 +14,9 @@ If you need any help in writing research paper I am your guy :')
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / C++ / JAVA / Python / SDA / C# / Pearl /jQuery 
+Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIPS / Pearl /jQuery 
 
-- 🔭 I’m currently working on deSwot 
+- 🔭 I’m currently working at Carte Blanche  
 - 🌱 I’m currently learning  React.js 
 - 👯 I’m looking to collaborate on React.js,Vue.js 
 - 💬 Ask me about AWS 
