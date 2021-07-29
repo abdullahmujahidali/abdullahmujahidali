@@ -54,7 +54,7 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dark&layout=compact&hide_langs_below=1" height='auto' />
 </a>
 <br>
-<a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-147%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-173%20commits-orange.svg" alt=""></a>
 <br>
 
 
