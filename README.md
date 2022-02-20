@@ -61,6 +61,9 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 
 <p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=abdullahmujahidali&row=1&theme=darkhub"/></p>
 
+ <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
+
 
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
