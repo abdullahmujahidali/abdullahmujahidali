@@ -57,6 +57,10 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 <a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-173%20commits-orange.svg" alt=""></a>
 <br>
 
+ <br/>
+
+<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=abdullahmujahidali&row=1&theme=darkhub"/></p>
+
 
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
