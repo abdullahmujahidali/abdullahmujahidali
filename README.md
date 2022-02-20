@@ -64,7 +64,13 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
 
+## 📊 My Github Stats
+
+<br/>
+<p>
+<img width="435px" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
+</p>
 
  
 <div align="center">
