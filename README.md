@@ -29,20 +29,30 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mujahid-211849186/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdullahmujahidali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdulladgaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/m.abdullahmujahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14224895)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2xO3s_j_JkY2hC_737ggcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdullahmujahidali.github.io/)  
 
--Projects Developed:  <br>
-*A personal blog page developed using Express, Node with MongoDB as storage* <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xrp.svg' alt='xrp' height='40'>](http://dry-bastion-52536.herokuapp.com/)  <br>
+```python
+class AbdullahMujahidAli():
+    
+  def __init__(self):
+    self.name = "Abdullah Mujahid Ali";
+    self.username = "abdullahmujahidali";
+    self.location = "Lahore, Pakistan";
+    self.twitter = "@abdulladgaf";
+    self.web = "https://abdullahmujahidali.github.io/";
+  
+  def __str__(self):
+    return self.name
+if __name__ == '__main__':
+    me = AbdullahMujahidAli()
+```
 
-*A todo list build developed using Express, Node with MongoDB as storage *<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eslgaming.svg' alt='eslgaming' height='40'>](http://damp-ocean-64899.herokuapp.com/)  
-<br>
-*A simon game developed using Javascript *
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yammer.svg' alt='yammer' height='40'>](http://simonabdullah.netlify.app/)  
-<br>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-<br>
- 
+<div align="center">
+  <a href="https://open.spotify.com/user/wgv22toazlkjul8927dmv1noo">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+
+
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 
   <p align="center">
@@ -75,6 +85,11 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
+ 
+
+[![Abdullah Mujahid Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&custom_title=Abdullah%20Mujahid's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abdullahmujahidali.github.io/)
+
+
  
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
