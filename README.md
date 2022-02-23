@@ -62,10 +62,10 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 
  <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahmujahidali&layout=compact&theme=darkhub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahmujahidali&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=darkhub" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=dark" />
 </a>
  <br>
 <br/>
