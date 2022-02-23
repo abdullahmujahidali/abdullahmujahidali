@@ -46,7 +46,7 @@ Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIP
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 
   <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=dh78mw02pr5wsiv0untz7s1uw&cover_image=true&theme=default" alt="None" height=400px>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wgv22toazlkjul8927dmv1noo" alt="None" height=400px>
  
   </p>
  
