@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+abdullahmujahidali;Hi+there%2C+I'm+Abdullah+Mujahid+Ali%C3%B8y.;Hi+there%2C+you+can+call+me+Addy.;Hi+there%2C+I'm+a+full-stack+software-engineer.;Hi+there%2C+I'm+a+product+designer.;Hi+there%2C+I'm+a+guitarist+&+I+ play+games+in+free+time.)](https://abdullahmujahidali.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+abdullahmujahidali;Hi+there%2C+I'm+Abdullah+Mujahid+Ali%C3%B8y.;Hi+there%2C+you+can+call+me+Addy.;Hi+there%2C+I'm+a+full-stack+software-engineer.;Hi+there%2C+I'm+a+product+designer.;Hi+there%2C+I'm+a+guitarist+&+I+ play+games+in+free+time.)](https://abdullahmujahidali.github.io/)
 #### FULL STACK DEVELOPER 
 
 ### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
