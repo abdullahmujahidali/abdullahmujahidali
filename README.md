@@ -71,7 +71,9 @@ if __name__ == '__main__':
 <img width="435px" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
 </p>
-
+<a href="https://stackoverflow.com/users/14224895/abdullah-mujahid">
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=14224895&theme=dracula&showBorder=false" />
+</a>
 
 
 <br>
