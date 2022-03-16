@@ -99,7 +99,7 @@ if __name__ == '__main__':
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/abdullahmujahidali/output/github-contribution-grid-snake.svg" width="100%">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  
