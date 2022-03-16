@@ -4,7 +4,7 @@
 <a href="https://github.com/nschloe/optimesh">
   <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
 </a>
-<br/>
+
 ### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
  I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@abdulladgaf](https://twitter.com/abdulladgaf/) or give some ♥ on [mail](mailto:abdullahmujahidali1@gmail.com). Feel free to reach out in case you want to just get in touch.
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=abdullahmujahidali&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahmujahidali)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <div align="center">
