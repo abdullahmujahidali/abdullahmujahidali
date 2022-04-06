@@ -39,7 +39,7 @@ class AbdullahMujahidAli():
   def __init__(self):
     self.name = "Abdullah Mujahid Ali";
     self.username = "abdullahmujahidali";
-    self.location = "Lahore, Pakistan";
+    self.location = "Lahore, Pakistan.";
     self.twitter = "@abdulladgaf";
     self.web = "https://abdullahmujahidali.github.io/";
   
