@@ -94,7 +94,7 @@ if __name__ == '__main__':
  
 
 [![Abdullah Mujahid Activity Graph]
-<img src="https://intense-river-40395.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark&custom_title=~%20~%20~%20My%20Profile%20Contribution%20Graph%20~%20~%20~&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahdiali&theme=react-dark)
 <!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
