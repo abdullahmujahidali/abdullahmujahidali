@@ -94,7 +94,7 @@ if __name__ == '__main__':
  
 
 [![Abdullah Mujahid Activity Graph]
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark)
 <!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
