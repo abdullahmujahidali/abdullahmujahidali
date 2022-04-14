@@ -8,7 +8,7 @@
 ### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
  I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@abdulladgaf](https://twitter.com/abdulladgaf/) or give some ♥ on [mail](mailto:abdullahmujahidali1@gmail.com). Feel free to reach out in case you want to just get in touch.
-![I am a programming learner](https://media-exp1.licdn.com/dms/image/C4D16AQHWhqn7xtiFgw/profile-displaybackgroundimage-shrink_200_800/0/1638768803966?e=1651708800&v=beta&t=n7nKUCSHh5S1fx5v3uENfU2RCPaWsdhXFpX2TOrtovM)
+![I am a programming learner](https://media-exp1.licdn.com/dms/image/C4D16AQEOIYEQjOaKGw/profile-displaybackgroundimage-shrink_350_1400/0/1647420779730?e=1655337600&v=beta&t=g4cYIeItRCd63RX1YF_eelD44Vx-gWxJ-36wuaKy1PA)
 
 Finally decided to go with Computer Science as my passion 😁 <br>
 I am a full-stack developer at [@deSwot] which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service. <br>
