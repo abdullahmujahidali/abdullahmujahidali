@@ -60,7 +60,7 @@ if __name__ == '__main__':
 ### Stats 📊
 
 <!-- <a href="#">
-  <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/abdullahmujahidali/github-readme-stats" />
 </a>
 <a href="#">
   <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
