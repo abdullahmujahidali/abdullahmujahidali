@@ -99,10 +99,8 @@ if __name__ == '__main__':
 
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
- 
+ <br/>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark)
-<!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--📏LINE-->
