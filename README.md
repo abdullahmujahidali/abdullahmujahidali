@@ -72,14 +72,6 @@ if __name__ == '__main__':
 
 ---
 
-
-![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
-
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wgv22toazlkjul8927dmv1noo" alt="None" height=400px>
- 
-  </p>
- 
 ## 📊 My Github Stats
 
 <br/>
