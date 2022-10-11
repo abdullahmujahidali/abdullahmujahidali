@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+abdullahmujahidali;Hi+there%2C+I'm+Abdullah+Mujahid+Ali%C3%B8y.;Hi+there%2C+you+can+call+me+Addy.;Hi+there%2C+I'm+a+full-stack+software+engineer+.;Hi+there%2C+I'm+a+product+designer.;Hi+there%2C+I'm+a+guitarist)](https://abdullahmujahidali.github.io/)
 #### FULL STACK DEVELOPER.
 
-<a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
-</a>
 
 ### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
  I have a passion for learning and sharing my knowledge with others as publicly as possible. 
