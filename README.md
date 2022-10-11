@@ -1,3 +1,5 @@
+[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+abdullahmujahidali;Hi+there%2C+I'm+Abdullah+Mujahid+Ali%C3%B8y.;Hi+there%2C+you+can+call+me+Addy.;Hi+there%2C+I'm+a+full-stack+software+engineer+.;Hi+there%2C+I'm+a+product+designer.;Hi+there%2C+I'm+a+guitarist)](https://abdullahmujahidali.github.io/)
 #### FULL STACK DEVELOPER.
 
