@@ -101,13 +101,10 @@ if __name__ == '__main__':
 <p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
  
 
-[![Abdullah Mujahid Activity Graph]
 ![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark)
 <!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  
