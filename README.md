@@ -58,6 +58,23 @@ if __name__ == '__main__':
 </div>
 
 
+---
+
+### Stats 📊
+
+<!-- <a href="#">
+  <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="#">
+  <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
+</a> -->
+
+<a href="https://metrics.lecoq.io/about/austenstone">
+  <img align="center" width="auto" src="https://metrics.lecoq.io/abdullahmujahidali?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" alt="Try refreshing again." />
+</a>
+
+---
+
 
 ![Profile views](https://gpvc.arturio.dev/abdullahmujahidali)  
 
