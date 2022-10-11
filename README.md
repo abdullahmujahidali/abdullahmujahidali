@@ -100,7 +100,9 @@ if __name__ == '__main__':
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
  <br/>
-
+ 
+[![Abdullah Mujahid Activity Graph]
+![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark)
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 <p align="center">
