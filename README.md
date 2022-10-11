@@ -105,6 +105,9 @@ if __name__ == '__main__':
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
  
+![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
+[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
+[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
