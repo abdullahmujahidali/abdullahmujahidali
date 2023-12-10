@@ -1,146 +1,41 @@
 [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+abdullahmujahidali;Hi+there%2C+I'm+Abdullah+Mujahid+Ali%C3%B8y.;Hi+there%2C+you+can+call+me+Addy.;Hi+there%2C+I'm+a+full-stack+software+engineer+.;Hi+there%2C+I'm+a+product+designer.;Hi+there%2C+I'm+a+guitarist)](https://abdullahmujahidali.github.io/)
-#### FULL STACK DEVELOPER.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=My+name+is+Abdullah+Mujahid+Ali.;I'm+a+Software+Engineer.)](https://abdullahmujahidali.vercel.app/)
 
+## Software Engineer
 
-### <a href="https://sourcerer.io/abdullahmujahidali"> Analysis </a>
- I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@abdulladgaf](https://twitter.com/abdulladgaf/) or give some ♥ on [mail](mailto:abdullahmujahidali1@gmail.com). Feel free to reach out in case you want to just get in touch.
+👋 Hi, I'm Abdullah Mujahid, a Software Engineer from Lahore, Pakistan. I'm passionate about turning ideas into intuitive solutions.
 
+🌟 With experience leading impactful projects at Carte Blanche, GlobalGroup, Vada Innovation, and deSwot, I specialize in Next.js, Django, FastAPI, and React.js, crafting efficient, user-focused solutions.
 
-Finally decided to go with Computer Science as my passion 😁 <br>
-I am a full-stack developer at [@deSwot] which provide web-services and moreover I am currently working on a project that is entitled with the company name "deSwot" which basically going to provide educational service. <br>
-Other than that I am a writer. I have written books on Wattpad and other than that I have helped students in their software requirement documentation and other related subjects like Software Engineering, Human Computer Interaction😹
-<br>
-If you need any help in writing research paper I am your guy :')
+🚀 As a Technical Development Lead at Vada Innovation and Global Group One, I've honed my skills in Django, React.js, Node.js, AWS, AI, Agile, and UI/UX design.
 
+🚀 Always Learning: I'm passionate about embracing new tech to create innovative solutions for today's challenges.
 
+💬 Get in Touch: I'm always open to collaborations, tech discussions, or exciting projects! Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-mujahid-211849186/).
 
-Skills: NODE JS / REACT / JS / MATLAB / Django / C++ / JAVA / Python / SDA / MIPS / Pearl /jQuery 
+## Stats 📊
 
-- 🔭 I’m currently working at Carte Blanche  
-- 🌱 I’m currently learning  React.js 
-- 👯 I’m looking to collaborate on React.js,Vue.js 
-- 💬 Ask me about AWS 
-- 📫 How to reach me: abdullahmujahidali1@gmail.com 
-- 😄 Pronouns: Me/Him 
-- ⚡ Fun fact: I am half finished 
+![abdullahmujahidali's Stats](https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="abdullah-mujahid-211849186"><a class="LI-simple-link" href='https://pk.linkedin.com/in/abdullah-mujahid-211849186?trk=profile-badge'>Abdullah Mujahid</a></div>
+![abdullahmujahidali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=dracula&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-mujahid-211849186/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdullahmujahidali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdulladgaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/m.abdullahmujahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14224895)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2xO3s_j_JkY2hC_737ggcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/abdullahmujahidali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdullahmujahidali.github.io/)  
+![StackOverflow](https://stackoverflow-card.vercel.app/?userID=14224895&theme=dracula&showBorder=false)
 
-```python
-class AbdullahMujahidAli():
-    
-  def __init__(self):
-    self.name = "Abdullah Mujahid Ali";
-    self.username = "abdullahmujahidali";
-    self.location = "Lahore, Pakistan.";
-    self.twitter = "@abdulladgaf";
-    self.web = "https://abdullahmujahidali.github.io/";
-  
-  def __str__(self):
-    return self.name
-if __name__ == '__main__':
-    me = AbdullahMujahidAli()
-```
+<!-- # Tech Skills
 
-<div align="center">
-  <a href="https://open.spotify.com/user/wgv22toazlkjul8927dmv1noo">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-
----
-
-### Stats 📊
-
-<!-- <a href="#">
-  <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true)](https://github.com/abdullahmujahidali/github-readme-stats" />
-</a>
-<a href="#">
-  <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&show_icons=true&theme=github_dark&bg_color=0d111700&hide_border=true&langs_count=8&layout=compact" />
-</a> -->
-
-<a href="https://metrics.lecoq.io/about/austenstone">
-  <img align="center" width="auto" src="https://metrics.lecoq.io/abdullahmujahidali?template=classic&gists=1&stackoverflow=1&lines=1&stackoverflow.user=5092005&stackoverflow.sections=%20&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=America%2FNew_York&config.display=large" alt="Try refreshing again." />
-</a>
-
----
-
-## 📊 My Github Stats
-
-<br/>
 <p>
-<img width="435px" src="https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
-</p>
-<a href="https://stackoverflow.com/users/14224895/abdullah-mujahid">
-  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=14224895&theme=dracula&showBorder=false" />
-</a>
+	<a href="https://profile.codersrank.io/user/abdullahmujahidali#Tech%20Skills">
+		<img width="800px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abdullahmujahidali&padding=15&height=300&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
+</p> -->
 
+# 💻Tech Stack
 
-<br>
-<a href="https://sourcerer.io/abdullahmujahidali"><img src="https://img.shields.io/badge/JavaScript-173%20commits-orange.svg" alt=""></a>
-<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<h3 align="left">Support:</h3>
+<a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a>
  <br/>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abdullahmujahidali&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
- 
- <br>
-<br/>
-<p align="left"><img width="99%" src="https://github-profile-trophy.vercel.app/?username=abdullahmujahidali&row=1&theme=darkhub"/></p>
-
- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a></p><br><br>
- <br/>
- 
-[![Abdullah Mujahid Activity Graph]
-![github graph](https://activity-graph.herokuapp.com/graph?username=abdullahmujahidali&theme=react-dark)
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
- 
-![](https://visitor-badge.glitch.me/badge?page_id=austenstone.austenstone)
-[![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
-[![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-<div align="center">
- --- Show some ❤️ by starring some of the repositories! ---
-</div>
- 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
