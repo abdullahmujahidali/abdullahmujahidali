@@ -1,6 +1,8 @@
-[![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+![Top Doodle](/files/top.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=My+name+is+Abdullah+Mujahid+Ali.;I'm+a+Software+Engineer.)](https://abdullahmujahidali.vercel.app/)
+<!-- [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=My+name+is+Abdullah+Mujahid+Ali.;I'm+a+Software+Engineer.)](https://abdullahmujahidali.vercel.app/) -->
 
 ## Software Engineer
 
@@ -39,3 +41,7 @@
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a>
  <br/>
+
+![Bottom Doodle](/files/bottom.png)
+
+</details>
