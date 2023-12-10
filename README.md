@@ -26,6 +26,8 @@
 
 ![StackOverflow](https://stackoverflow-card.vercel.app/?userID=14224895&theme=dracula&showBorder=false)
 
+![snake gif](https://github.com/abdullahmujahidali/abdullahmujahidali/blob/output/github-contribution-grid-snake.gif)
+
 <!-- # Tech Skills
 
 <p>
