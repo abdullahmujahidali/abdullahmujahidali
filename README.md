@@ -28,7 +28,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/abdullahmujahidali)](https://leetcode.com/abdullahmujahidali)
 
-![snake gif](https://github.com/abdullahmujahidali/abdullahmujahidali/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
 <!-- # Tech Skills
 
