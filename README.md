@@ -20,7 +20,7 @@
 
 ![abdullahmujahidali's Stats](https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-![abdullahmujahidali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=dracula&hide_border=false)
+![abdullahmujahidali's Streak]([https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=dracula&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=abdullahmujahidali&theme=dark)](https://git.io/streak-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
