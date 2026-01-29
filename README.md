@@ -1,51 +1,191 @@
-![Top Doodle](/files/top.png)
+<div align="center">
 
-<!-- [![Style](https://user-images.githubusercontent.com/22425467/185957422-5d14f462-1155-45b4-8a15-547beefe4e44.gif#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Abdullah%20Mujahid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Lead%20%7C%20AI%20Architect&descSize=18&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=My+name+is+Abdullah+Mujahid+Ali.;I'm+a+Software+Engineer.)](https://abdullahmujahidali.vercel.app/) -->
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Engineering+Leader+scaling+teams+%26+systems;Transforming+vision+into+production-ready+platforms;8%2B+years+shipping+products+that+matter;389%2B+citations+on+AI+%26+Computer+Vision+research)](https://abdullahmujahidali.com)
 
-## Software Engineer
-
-👋 Hi, I'm Abdullah Mujahid, a Software Engineer from Lahore, Pakistan. I'm passionate about turning ideas into intuitive solutions.
-
-🌟 With experience leading impactful projects at Carte Blanche, GlobalGroup, Vada Innovation, and deSwot, I specialize in Next.js, Django, FastAPI, and React.js, crafting efficient, user-focused solutions.
-
-🚀 As a Technical Development Lead at Vada Innovation and Global Group One, I've honed my skills in Django, React.js, Node.js, AWS, AI, Agile, and UI/UX design.
-
-🚀 Always Learning: I'm passionate about embracing new tech to create innovative solutions for today's challenges.
-
-💬 Get in Touch: I'm always open to collaborations, tech discussions, or exciting projects! Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-mujahid-211849186/).
-
-## Stats 📊
-
-![abdullahmujahidali's Stats](https://github-readme-stats.vercel.app/api?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-![abdullahmujahidali's Streak]([https://github-readme-streak-stats.herokuapp.com/?user=abdullahmujahidali&theme=dracula&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=abdullahmujahidali&theme=dark)](https://git.io/streak-stats))
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmujahidali&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
-![StackOverflow](https://stackoverflow-card.vercel.app/?userID=14224895&theme=dracula&showBorder=false)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/abdullahmujahidali)](https://leetcode.com/abdullahmujahidali)
-
-![Snake animation](https://github.com/abdullahmujahidali/abdullahmujahidali/blob/output/github-contribution-grid-snake.svg)
-
-<!-- # Tech Skills
-
+<!-- Social Badges -->
 <p>
-	<a href="https://profile.codersrank.io/user/abdullahmujahidali#Tech%20Skills">
-		<img width="800px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abdullahmujahidali&padding=15&height=300&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
-</p> -->
+<a href="https://www.linkedin.com/in/abdullahmujahidali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/abdulladgaf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:abdullahmujahidali1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://abdullahmujahidali.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://scholar.google.com/citations?user=maVlLj4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+</p>
 
-# 💻Tech Stack
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=abdullahmujahidali&style=for-the-badge&color=6366F1" alt="Profile Views"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
-<h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/abdullahmjd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdullahmjd" /></a>
- <br/>
+---
 
-![Bottom Doodle](/files/bottom.png)
+## 🚀 About Me
+
+I'm an **Engineering Manager & Tech Lead** with 8+ years of experience building and scaling products that matter. Based in **Lahore, Pakistan** — occasionally in **Dubai**.
+
+```typescript
+const abdullah = {
+  role: "Engineering Manager & Tech Lead",
+  location: "Lahore, Pakistan 🇵🇰 | Dubai 🇦🇪",
+  philosophy: "Ship fast, scale smart, lead with empathy",
+
+  leadership: {
+    teamsBuilt: "6+",
+    engineersMentored: "20+",
+    productsShipped: "15+",
+    usersImpacted: "100K+"
+  },
+
+  expertise: [
+    "Engineering Leadership & Team Building",
+    "AI/LLM Architecture & Implementation",
+    "System Design at Scale",
+    "Full-Stack Development"
+  ]
+};
+```
+
+### What I Bring to the Table
+
+🎯 **Strategic Vision** — I don't just write code; I architect solutions that align with business goals and scale with growth.
+
+👥 **Team Builder** — I've grown engineering teams from scratch, established engineering culture, and mentored developers into tech leads.
+
+🔧 **Technical Depth** — From designing HIPAA-compliant systems to implementing RAG pipelines, I stay hands-on where it matters.
+
+📈 **Delivery Focus** — My teams ship. On time. With quality. Every sprint.
+
+---
+
+## 📚 Research Impact
+
+<div align="center">
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-389+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=maVlLj4AAAAJ&hl=en)
+
+</div>
+
+### 🎓 Featured Publication
+
+**[Real-Time Hand Gesture Recognition Based on Deep Learning YOLOv3 Model](https://www.mdpi.com/2076-3417/11/9/4164)**
+*Applied Sciences (MDPI) • 2021*
+
+<img src="https://img.shields.io/badge/Citations-389+-success?style=flat-square" alt="Citations"/> <img src="https://img.shields.io/badge/Impact-High-blue?style=flat-square" alt="Impact"/>
+
+A lightweight YOLOv3 + DarkNet-53 model for real-time gesture recognition achieving **97.68% accuracy** — enabling accessibility technology for people with disabilities.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
+
+<details open>
+<summary><b>AI/ML & Data</b></summary>
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</details>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdullahmujahidali/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abdullahmujahid)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/abdullahmujahidali?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/abdullahmujahidali)
+
+</div>
+
+---
+
+## 🏆 Credentials
+
+<div align="center">
+
+| Certification | Issuer | Verify |
+|--------------|--------|--------|
+| 🎯 **ClickUp Expert** | ClickUp University | [Verify](https://verify.skilljar.com/c/fp5pzrxt93ui) |
+| 🤖 **Prompt Design in Vertex AI** | Google Cloud | [Verify](https://www.credly.com/badges/43aa7d34-a493-4b39-a7e8-6125ec12c9a1) |
+| 📊 **Lean Six Sigma White Belt** | Six Sigma Council | [Verify](https://www.credly.com/badges/de779bc9-9286-4d54-a90a-9aa98ef9cfc7) |
+| 🐍 **Python (Basic)** | HackerRank | [Verify](https://www.hackerrank.com/certificates/117ba4a298d2) |
+| 🧩 **Problem Solving** | HackerRank | [Verify](https://www.hackerrank.com/certificates/24b994b40b96) |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Looking for an engineering leader who delivers?**
+
+Whether you need someone to build your engineering team, architect your next platform, or turn your AI vision into reality — let's chat.
+
+<a href="https://cal.com/abdullahmujahidali">
+  <img src="https://img.shields.io/badge/Schedule_a_call-6366F1?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar"/>
+</a>
+<a href="mailto:abdullahmujahidali1@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Support My Work
+
+<a href="https://www.buymeacoffee.com/abdullahmjd">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
