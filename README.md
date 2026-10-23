@@ -60,6 +60,32 @@ const abdullah = {
 
 ---
 
+## 🌍 Open Source
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**Celery**](https://github.com/celery/celery) | [`task_retry_on_worker_lost` — cap requeues after a worker dies](https://github.com/celery/celery/pull/10843) | ✅ Merged |
+| [**Celery**](https://github.com/celery/celery) | [Support configuring additional Redis connection errors](https://github.com/celery/celery/pull/10158) | ✅ Merged |
+| [**Celery**](https://github.com/celery/celery) | [Decouple `acks_on_failure` and `acks_on_timeout`](https://github.com/celery/celery/pull/10150) | ✅ Merged |
+| [**Celery**](https://github.com/celery/celery) | [Allow `acks_on_failure` to be a callable deciding per exception](https://github.com/celery/celery/pull/10898) | 🔄 In review |
+| [**Poetry**](https://github.com/python-poetry/poetry) | [Clarify `install` vs `update` in the docs](https://github.com/python-poetry/poetry/pull/10713) | ✅ Merged |
+| [**Django**](https://github.com/django/django) | [Use `reprlib` to limit variable size in debug reports (#34746)](https://github.com/django/django/pull/20578) | 🔄 In review |
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Cellify**](https://github.com/abdullahmujahidali/Cellify) | Zero-dependency spreadsheet library, published on [npm](https://www.npmjs.com/package/cellify) | TypeScript |
+| [**Trusses**](https://github.com/abdullahmujahidali/FinancialPlanner) | Multi-tenant household finance PWA with a self-learning bank-CSV rules engine | Next.js · Drizzle · Postgres |
+| [**Hand Gesture Recognition**](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-) | Code behind my YOLOv3 paper — 97.68% accuracy, 389+ citations | Python · YOLOv3 · OpenCV |
+| [**Vet-LangGraph**](https://github.com/abdullahmujahidali/Vet-LangGraph) | Multi-agent veterinary AI assistant | LangGraph · LLMs |
+| [**ResumeParser-JobMatcher**](https://github.com/abdullahmujahidali/ResumeParser-JobMatcher) | Parses resumes and scores them against job descriptions | Django · OpenAI |
+| [**DigiHippo**](https://github.com/abdullahmujahidali/DigiHippo) | Digital marketplace with a headless CMS | Next.js 14 · tRPC |
+
+---
+
 ## 📚 Research Impact
 
 <div align="center">
@@ -148,11 +174,7 @@ A lightweight YOLOv3 + DarkNet-53 model for real-time gesture recognition achiev
 
 | Certification | Issuer | Verify |
 |--------------|--------|--------|
-| 🎯 **ClickUp Expert** | ClickUp University | [Verify](https://verify.skilljar.com/c/fp5pzrxt93ui) |
 | 🤖 **Prompt Design in Vertex AI** | Google Cloud | [Verify](https://www.credly.com/badges/43aa7d34-a493-4b39-a7e8-6125ec12c9a1) |
-| 📊 **Lean Six Sigma White Belt** | Six Sigma Council | [Verify](https://www.credly.com/badges/de779bc9-9286-4d54-a90a-9aa98ef9cfc7) |
-| 🐍 **Python (Basic)** | HackerRank | [Verify](https://www.hackerrank.com/certificates/117ba4a298d2) |
-| 🧩 **Problem Solving** | HackerRank | [Verify](https://www.hackerrank.com/certificates/24b994b40b96) |
 
 </div>
 
@@ -176,16 +198,6 @@ Whether you need someone to build your engineering team, architect your next pla
 </div>
 
 ---
-
-<div align="center">
-
-### 💖 Support My Work
-
-<a href="https://www.buymeacoffee.com/abdullahmjd">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
