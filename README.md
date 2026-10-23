@@ -79,7 +79,7 @@ An API that analyses news articles with LLMs on AWS Bedrock — retries for tran
 | Project | What it is | Stack |
 |---|---|---|
 | [**Cellify**](https://github.com/abdullahmujahidali/Cellify) | Zero-dependency spreadsheet library, published on [npm](https://www.npmjs.com/package/cellify) | TypeScript |
-| [**Trusses**](https://github.com/abdullahmujahidali/FinancialPlanner) | Multi-tenant household finance PWA with a self-learning bank-CSV rules engine | Next.js · Drizzle · Postgres |
+| [**TechScout**](https://github.com/abdullahmujahidali/TechScout) | Pair-programming finder with live video and screen share | Next.js · TypeScript · WebRTC |
 | [**Hand Gesture Recognition**](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-) | Code behind my YOLOv3 paper — 97.68% accuracy, 389+ citations | Python · YOLOv3 · OpenCV |
 | [**LyricsIntelliect**](https://github.com/abdullahmujahidali/LyricsIntelliect) | Lyric analysis with LLM summaries; async processing with Celery | Django · Celery · React · OpenAI |
 | [**ResumeParser-JobMatcher**](https://github.com/abdullahmujahidali/ResumeParser-JobMatcher) | Parses resumes and scores them against job descriptions | Django · OpenAI |
