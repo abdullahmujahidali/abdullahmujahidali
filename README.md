@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Abdullah%20Mujahid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Lead%20%7C%20AI%20Architect&descSize=18&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Engineering+leader+scaling+teams+%26+systems;Celery+contributor+%C2%B7+Python+%26+TypeScript;Shipping+production+AI+%2F+LLM+platforms;389%2B+citations+on+computer+vision+research)](https://abdullahmujahidali.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Engineering+leader+scaling+teams+%26+systems;Celery+contributor+%C2%B7+Python+%26+TypeScript;Shipping+production+AI+%2F+LLM+platforms;430%2B+citations+on+computer+vision+research)](https://abdullahmujahidali.com)
 
 <p>
 <a href="https://www.linkedin.com/in/abdullahmujahidali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -80,7 +80,7 @@ An API that analyses news articles with LLMs on AWS Bedrock — retries for tran
 |---|---|---|
 | [**Cellify**](https://github.com/abdullahmujahidali/Cellify) | Zero-dependency spreadsheet library, published on [npm](https://www.npmjs.com/package/cellify) | TypeScript |
 | [**TechScout**](https://github.com/abdullahmujahidali/TechScout) | Pair-programming finder with live video and screen share | Next.js · TypeScript · WebRTC |
-| [**Hand Gesture Recognition**](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-) | Code behind my YOLOv3 paper — 97.68% accuracy, 389+ citations | Python · YOLOv3 · OpenCV |
+| [**Hand Gesture Recognition**](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-) | Code behind my YOLOv3 paper — 97.68% accuracy, 430+ citations | Python · YOLOv3 · OpenCV |
 | [**LyricsIntelliect**](https://github.com/abdullahmujahidali/LyricsIntelliect) | Lyric analysis with LLM summaries; async processing with Celery | Django · Celery · React · OpenAI |
 | [**ResumeParser-JobMatcher**](https://github.com/abdullahmujahidali/ResumeParser-JobMatcher) | Parses resumes and scores them against job descriptions | Django · OpenAI |
 | [**DigiHippo**](https://github.com/abdullahmujahidali/DigiHippo) | Digital marketplace with a headless CMS | Next.js 14 · tRPC |
@@ -89,7 +89,7 @@ An API that analyses news articles with LLMs on AWS Bedrock — retries for tran
 
 ## 📚 Research
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-389+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=maVlLj4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-430+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=maVlLj4AAAAJ&hl=en)
 
 **[Real-Time Hand Gesture Recognition Based on Deep Learning YOLOv3 Model](https://www.mdpi.com/2076-3417/11/9/4164)** — *Applied Sciences (MDPI), 2021*
 
