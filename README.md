@@ -81,7 +81,7 @@ An API that analyses news articles with LLMs on AWS Bedrock — retries for tran
 | [**Cellify**](https://github.com/abdullahmujahidali/Cellify) | Zero-dependency spreadsheet library, published on [npm](https://www.npmjs.com/package/cellify) | TypeScript |
 | [**Trusses**](https://github.com/abdullahmujahidali/FinancialPlanner) | Multi-tenant household finance PWA with a self-learning bank-CSV rules engine | Next.js · Drizzle · Postgres |
 | [**Hand Gesture Recognition**](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-) | Code behind my YOLOv3 paper — 97.68% accuracy, 389+ citations | Python · YOLOv3 · OpenCV |
-| [**Vet-LangGraph**](https://github.com/abdullahmujahidali/Vet-LangGraph) | Multi-agent veterinary AI assistant | LangGraph · LLMs |
+| [**LyricsIntelliect**](https://github.com/abdullahmujahidali/LyricsIntelliect) | Lyric analysis with LLM summaries; async processing with Celery | Django · Celery · React · OpenAI |
 | [**ResumeParser-JobMatcher**](https://github.com/abdullahmujahidali/ResumeParser-JobMatcher) | Parses resumes and scores them against job descriptions | Django · OpenAI |
 | [**DigiHippo**](https://github.com/abdullahmujahidali/DigiHippo) | Digital marketplace with a headless CMS | Next.js 14 · tRPC |
 
@@ -105,6 +105,8 @@ A lightweight YOLOv3 + DarkNet-53 model for real-time gesture recognition reachi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -115,6 +117,7 @@ A lightweight YOLOv3 + DarkNet-53 model for real-time gesture recognition reachi
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -166,6 +169,10 @@ A lightweight YOLOv3 + DarkNet-53 model for real-time gesture recognition reachi
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
