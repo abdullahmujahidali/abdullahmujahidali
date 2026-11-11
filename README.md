@@ -18,14 +18,14 @@
 
 ## 👋 About Me
 
-I'm an **Engineering Manager & Tech Lead** with 8+ years of building and scaling products — from the first commit to production, and from a solo engineer to a team. Based in **Kuala Lumpur, Malaysia**, often in **Dubai**, working with teams worldwide.
+I'm an **Engineering Manager & Tech Lead** with 8+ years of building and scaling products — from the first commit to production, and from a solo engineer to a team. Based in **Lahore, Pakistan**, working fully remotely with teams worldwide.
 
 I stay hands-on: I design the architecture, review the code, and still ship features myself. My sweet spot is **Python/Django + TypeScript/React platforms with an AI/LLM core**.
 
 ```typescript
 const abdullah = {
   role: "Engineering Manager & Tech Lead",
-  location: "Kuala Lumpur 🇲🇾 · Dubai 🇦🇪 · Remote 🌍",
+  location: "Lahore 🇵🇰 · Remote 🌍",
   philosophy: "Ship fast, scale smart, lead with empathy",
 
   leadership: {
